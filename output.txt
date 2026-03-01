@@ -1,0 +1,45 @@
+A
+Top Element: 30
+Popped: 30
+Size: 2
+Is Empty: False
+
+B
+Factorial Tests
+0! = 1
+1! = 1
+5! = 120
+10! = 3628800
+
+
+B(naive fibonacci)
+
+Naive Result: 5
+Naive Recursive Calls: 15
+Naive Result: 55
+Naive Recursive Calls: 177
+Naive Result: 6765
+Naive Recursive Calls: 21891
+Naive Result: 832040
+Naive Recursive Calls: 2692537
+B(memory fibonacci)
+Memoized Result: 832040
+Memo Recursive Calls: 59
+
+C
+===== TOWER OF HANOI (N = 3) =====
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+D 
+===== BINARY SEARCH TESTS =====
+Search 7: 3
+Search 1: 0
+Search 13: 6
+Search 2: -1
+Search in empty list: -1
